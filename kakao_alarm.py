@@ -2,7 +2,7 @@ import requests
 import json
 from PyKakao import Message
 
-API = Message(service_key = "d3478140dfe991d07a51a6f6b53e54b0") # API키 (우영)
+API = Message(service_key = ) # API키 (우영)
 
 # 1번째
 # print("인증 확인 주소: " , API.get_url_for_generating_code())
